@@ -17,5 +17,8 @@ First deliverable of information from this analysis is to answer the intial ques
 
 ## Summary
 In summary, there is going to be a large impact as this wave of associates begin retiring. This is a quarter of the workforce and as this begins, it will have a major impact in middle of the talent heirarchy. So we will have plenty of managers but a lot entry-level workforce. To combat at least a part of this we do have enough to begin to mentor those that are eligible.
+
 As noted in the summary of the mentorship eligibility analysis in our addition of figure 2, there is a good distribution of employees to mentor that are in Senior Staff postions.
-A final additional analysis created and show here in Figure 3 is the breakdown of retiring employees by department so we know were to focus on.
+
+A final additional analysis created and show here in Figure 3 is the breakdown of retiring employees by department so we know were to focus on. This should be where we focus the initial groups of mentors
+![](https://github.com/NortonAAA/Pewlett-Hackard-Analysis/blob/main/Report_out/emp_by_department.png)
